@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\饲料厂稳定器\UI\MyTCP\obj\Debug\MyTCP.Properties.Resources.resources
+C:\Users\Administrator\Desktop\饲料厂稳定器\UI\MyTCP\obj\Debug\MyTCP.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\饲料厂稳定器\UI\MyTCP\bin\Debug\MyTCP.exe.config
+C:\Users\Administrator\Desktop\饲料厂稳定器\UI\MyTCP\bin\Debug\MyTCP.exe
+C:\Users\Administrator\Desktop\饲料厂稳定器\UI\MyTCP\bin\Debug\MyTCP.pdb
+C:\Users\Administrator\Desktop\饲料厂稳定器\UI\MyTCP\obj\Debug\MyTCP.exe
+C:\Users\Administrator\Desktop\饲料厂稳定器\UI\MyTCP\obj\Debug\MyTCP.pdb
+C:\Users\Administrator\Desktop\饲料厂稳定器\UI\MyTCP\obj\Debug\MyTCP.csprojResolveAssemblyReference.cache

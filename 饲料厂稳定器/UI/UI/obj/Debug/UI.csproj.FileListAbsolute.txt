@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\饲料厂稳定器\UI\UI\bin\Debug\UI.exe.config
+C:\Users\Administrator\Desktop\饲料厂稳定器\UI\UI\bin\Debug\UI.exe
+C:\Users\Administrator\Desktop\饲料厂稳定器\UI\UI\bin\Debug\UI.pdb
+C:\Users\Administrator\Desktop\饲料厂稳定器\UI\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\Administrator\Desktop\饲料厂稳定器\UI\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\饲料厂稳定器\UI\UI\obj\Debug\UI.exe
+C:\Users\Administrator\Desktop\饲料厂稳定器\UI\UI\obj\Debug\UI.pdb
+C:\Users\Administrator\Desktop\饲料厂稳定器\UI\UI\bin\Debug\My_HttpClient.exe
+C:\Users\Administrator\Desktop\饲料厂稳定器\UI\UI\bin\Debug\My_HttpClient.pdb
+C:\Users\Administrator\Desktop\饲料厂稳定器\UI\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\饲料厂稳定器\UI\UI\bin\Debug\MyUart.exe
+C:\Users\Administrator\Desktop\饲料厂稳定器\UI\UI\bin\Debug\MyUart.pdb
+C:\Users\Administrator\Desktop\饲料厂稳定器\UI\UI\obj\Debug\UI.App_Start.resources
+C:\Users\Administrator\Desktop\饲料厂稳定器\UI\UI\obj\Debug\UI.Page_BaseInf.resources
+C:\Users\Administrator\Desktop\饲料厂稳定器\UI\UI\obj\Debug\UI.Page_Setting.resources
+C:\Users\Administrator\Desktop\饲料厂稳定器\UI\UI\bin\Debug\CircularProgressBar.dll
+C:\Users\Administrator\Desktop\饲料厂稳定器\UI\UI\bin\Debug\WinFormAnimation.dll

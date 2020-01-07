@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\饲料厂稳定器\UI\MyUart\obj\Debug\MyUart.Properties.Resources.resources
+C:\Users\Administrator\Desktop\饲料厂稳定器\UI\MyUart\obj\Debug\MyUart.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\饲料厂稳定器\UI\MyUart\bin\Debug\MyUart.exe.config
+C:\Users\Administrator\Desktop\饲料厂稳定器\UI\MyUart\bin\Debug\MyUart.exe
+C:\Users\Administrator\Desktop\饲料厂稳定器\UI\MyUart\bin\Debug\MyUart.pdb
+C:\Users\Administrator\Desktop\饲料厂稳定器\UI\MyUart\obj\Debug\MyUart.exe
+C:\Users\Administrator\Desktop\饲料厂稳定器\UI\MyUart\obj\Debug\MyUart.pdb

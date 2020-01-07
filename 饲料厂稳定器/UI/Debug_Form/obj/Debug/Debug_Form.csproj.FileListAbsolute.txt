@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\饲料厂稳定器\UI\Debug_Form\bin\Debug\Debug_Form.exe.config
+C:\Users\Administrator\Desktop\饲料厂稳定器\UI\Debug_Form\bin\Debug\Debug_Form.exe
+C:\Users\Administrator\Desktop\饲料厂稳定器\UI\Debug_Form\bin\Debug\Debug_Form.pdb
+C:\Users\Administrator\Desktop\饲料厂稳定器\UI\Debug_Form\obj\Debug\Debug_Form.Form1.resources
+C:\Users\Administrator\Desktop\饲料厂稳定器\UI\Debug_Form\obj\Debug\Debug_Form.Properties.Resources.resources
+C:\Users\Administrator\Desktop\饲料厂稳定器\UI\Debug_Form\obj\Debug\Debug_Form.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\饲料厂稳定器\UI\Debug_Form\obj\Debug\Debug_Form.exe
+C:\Users\Administrator\Desktop\饲料厂稳定器\UI\Debug_Form\obj\Debug\Debug_Form.pdb
+C:\Users\Administrator\Desktop\饲料厂稳定器\UI\Debug_Form\obj\Debug\Debug_Form.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\饲料厂稳定器\UI\Debug_Form\bin\Debug\MyUart.exe
+C:\Users\Administrator\Desktop\饲料厂稳定器\UI\Debug_Form\bin\Debug\My_HttpClient.exe
+C:\Users\Administrator\Desktop\饲料厂稳定器\UI\Debug_Form\bin\Debug\MyUart.pdb
+C:\Users\Administrator\Desktop\饲料厂稳定器\UI\Debug_Form\bin\Debug\My_HttpClient.pdb
+C:\Users\Administrator\Desktop\饲料厂稳定器\UI\Debug_Form\bin\Debug\CircularProgressBar.dll
+C:\Users\Administrator\Desktop\饲料厂稳定器\UI\Debug_Form\bin\Debug\WinFormAnimation.dll
+C:\Users\Administrator\Desktop\饲料厂稳定器\UI\Debug_Form\bin\Debug\MyTCP.exe
+C:\Users\Administrator\Desktop\饲料厂稳定器\UI\Debug_Form\bin\Debug\MyTCP.pdb

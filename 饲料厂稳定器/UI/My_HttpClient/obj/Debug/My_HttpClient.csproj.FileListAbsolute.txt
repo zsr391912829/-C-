@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\饲料厂稳定器\UI\My_HttpClient\obj\Debug\My_HttpClient.Properties.Resources.resources
+C:\Users\Administrator\Desktop\饲料厂稳定器\UI\My_HttpClient\obj\Debug\My_HttpClient.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\饲料厂稳定器\UI\My_HttpClient\bin\Debug\My_HttpClient.exe.config
+C:\Users\Administrator\Desktop\饲料厂稳定器\UI\My_HttpClient\bin\Debug\My_HttpClient.exe
+C:\Users\Administrator\Desktop\饲料厂稳定器\UI\My_HttpClient\bin\Debug\My_HttpClient.pdb
+C:\Users\Administrator\Desktop\饲料厂稳定器\UI\My_HttpClient\obj\Debug\My_HttpClient.exe
+C:\Users\Administrator\Desktop\饲料厂稳定器\UI\My_HttpClient\obj\Debug\My_HttpClient.pdb
